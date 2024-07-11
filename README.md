@@ -89,11 +89,11 @@ Nu este necesară autentificarea sau înregistrarea!!😊😎👍🤝
 
 | Nume | Link | Dimensiune |
 |:------:|------------|:---------:|
-| VMware_ESXi_6.7.1.iso | [click here](https://mega.nz/folder/QyYBUY6L#OHS18PYXozN_AUA781CokA/file/42pniBbQ) | 314.7 MB
-| VMware-VMvisor-Installer-7.0.0-15843807.x86_64.iso | [click here](https://mega.nz/folder/QyYBUY6L#OHS18PYXozN_AUA781CokA/file/trx2RRSC) | 350.3 MB
-| VMware-VMvisor-Installer-6.5.0-4564106.x86_64.iso | [click here](https://mega.nz/folder/QyYBUY6L#OHS18PYXozN_AUA781CokA/file/YqoHQKCa) | 328.3 MB
-| esxi-vSphere-8.0b.tgz | [click here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/VMWare%20ESXi/esxi-vSphere-8.0b.tgz) | 860 MB
-| VMWare vCenter 7.0 | [click here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/VMWare%20vCenter/vcenter-7.0U1D.tgz) | 5.5 GB
+| VMware_ESXi_6.7.1.iso | [click aici](https://mega.nz/folder/QyYBUY6L#OHS18PYXozN_AUA781CokA/file/42pniBbQ) | 314.7 MB
+| VMware-VMvisor-Installer-7.0.0-15843807.x86_64.iso | [click aici](https://mega.nz/folder/QyYBUY6L#OHS18PYXozN_AUA781CokA/file/trx2RRSC) | 350.3 MB
+| VMware-VMvisor-Installer-6.5.0-4564106.x86_64.iso | [click aici](https://mega.nz/folder/QyYBUY6L#OHS18PYXozN_AUA781CokA/file/YqoHQKCa) | 328.3 MB
+| esxi-vSphere-8.0b.tgz | [click aici](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/VMWare%20ESXi/esxi-vSphere-8.0b.tgz) | 860 MB
+| VMWare vCenter 7.0 | [click aici](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/VMWare%20vCenter/vcenter-7.0U1D.tgz) | 5.5 GB
 
 
 
