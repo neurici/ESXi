@@ -130,8 +130,6 @@ Instalați VMWare Workstation PRO 17.x (Citiți-l corect. PRO!)
 - Dacă ați găsit munca noastră utilă, v-aș aprecia foarte mult dacă ați putea să acordați o stea ⭐. Feedback-ul dumneavoastră este valoros și ne ajută să ne îmbunătățim. Multumesc!
 
 
-
-
 ## Chei adăugate recent...
 
 --------------------------------------------------------------------
@@ -210,6 +208,8 @@ NY69H-2N05P-HJ170-1V1ZM-CG222
 HY0W0-8NK11-HJ4D8-02AE2-1GH54
 JV4RK-4Y29N-MJ5F8-12CXP-8L836
 5F4RU-D5351-4J8V1-0U2X2-06078
+
+
  <!-- Support Me --> 
 
 
